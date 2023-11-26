@@ -6,7 +6,7 @@
 <h3 align="center">Coding Enthusiast and Mechanical Engineering Specialist</h3>
 
 <p align="center">
-  <img src= "https://media.giphy.com/media/5xtDarqiAfN6mqPwdyw/giphy.gif">
+  <img src= "https://media.giphy.com/media/3xz2BCmCSOW9wSOw1O/giphy.gif">
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
