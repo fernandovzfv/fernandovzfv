@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-</p>
-
 <h1 align="center">I'm Fernando Vázquez</h1>
 <h3 align="center">Coding Enthusiast and Mechanical Engineering Specialist</h3>
 
